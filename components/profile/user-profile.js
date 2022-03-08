@@ -1,4 +1,3 @@
-// @ts-nocheck
 // import { useSession, getSession } from 'next-auth/client';
 // import { useState, useEffect } from 'react';
 
